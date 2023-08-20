@@ -1,0 +1,4 @@
+/.DS_Store
+
+db-data/postgres/*
+!db-data/postgres/README.txt
