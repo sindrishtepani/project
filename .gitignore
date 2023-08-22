@@ -2,3 +2,6 @@
 
 db-data/postgres/*
 !db-data/postgres/README.txt
+
+db-data/mongo/*
+!db-data/mongo/README.txt
