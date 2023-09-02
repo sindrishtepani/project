@@ -1,7 +1,5 @@
 /.DS_Store
 
 db-data/postgres/*
-!db-data/postgres/README.txt
-
 db-data/mongo/*
-!db-data/mongo/README.txt
+db-data/rabbitmq/*
